@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.git2">
-// This assignment is the assignment to do a simple pizza ordering app.
-// The app uses buttons, text fields and an image.
-// You have a youtube video but also a 'shortcut' paper to explain how
-// Watch the video and then follow the steps in the paper ( or just
-// follow the video
+    <!--this is how comments are done in xml-->
+    <!--An activity needs to be registered in the manifest
+    each activity will have a section of code.  Within
+    the section of code below is part that specifies that
+    the MainActivity is the starting point of execution-->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
